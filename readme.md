@@ -16,8 +16,8 @@ Database : db_laravel_siswa
 Tabel    : tabel_kelas, tabel_siswa, tabel_user
 
 # Fitur
-Login
-Logout
-CRUD
-Relasi Tabel
+Login.
+Logout.
+CRUD.
+Relasi Tabel.
 
